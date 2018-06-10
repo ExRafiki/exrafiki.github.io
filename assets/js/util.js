@@ -301,12 +301,9 @@
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.placeholder = function() {
-
-		// Browser natively supports placeholders? Bail.
 			if (typeof (document.createElement('input')).placeholder != 'undefined')
 				return $(this);
 
-		// No elements?
 			if (this.length == 0)
 				return $this;
 
