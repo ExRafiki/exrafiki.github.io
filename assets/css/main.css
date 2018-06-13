@@ -1,6 +1,4 @@
 /*eslint-disable */
-
-@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 /*eslint-enable */
 
@@ -1776,7 +1774,6 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -1874,7 +1871,6 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
