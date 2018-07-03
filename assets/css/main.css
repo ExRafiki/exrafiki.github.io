@@ -2617,14 +2617,14 @@
 	}
 
 		.wrapper > .inner {
-			width: 60em;
+			width: 100;
 			margin: 0 auto;
 		}
 
 			@media screen and (max-width: 1280px) {
 
 				.wrapper > .inner {
-					width: 90%;
+					width: 100%;
 				}
 
 			}
@@ -3582,7 +3582,7 @@
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 70%;
+			width: 100%;
 		}
 
 			#cta .inner header p {
