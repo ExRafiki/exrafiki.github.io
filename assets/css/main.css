@@ -3574,6 +3574,7 @@
 		display: -ms-flex;
 		display: flex;
 		max-width: 45em;
+    text-align: center;
 	}
 
 		#cta .inner header {
